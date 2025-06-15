@@ -1,4 +1,4 @@
-# EEI4369 Android Lab App – Student: S23010210
+# EEI4369 Android Lab App 
 
 This Android application was built as part of the EEI4369 Mobile App Development Lab Test. It integrates multiple Android components into one seamless app experience.
 
